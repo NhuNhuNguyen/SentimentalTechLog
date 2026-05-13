@@ -1,0 +1,6 @@
+@SentimentalTechLog.API_HostAddress = http://localhost:5030
+
+GET {{SentimentalTechLog.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

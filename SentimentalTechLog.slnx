@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SentimentalTechLog.API/SentimentalTechLog.API.csproj" />
+  <Project Path="SentimentalTechLog.Application/SentimentalTechLog.Application.csproj" />
+  <Project Path="SentimentalTechLog.Domain/SentimentalTechLog.Domain.csproj" />
+  <Project Path="SentimentalTechLog.Infrastructure/SentimentalTechLog.Infrastructure.csproj" />
+</Solution>
