@@ -7,19 +7,13 @@
 This project implements **Clean Architecture** to ensure high maintainability and testability.
 
 ### 1. Component Diagram
-<p align="center">
-  <img src="./docs/SentimentalTechLog_ComponentDiagram.jpeg" width="800" alt="Clean Architecture">
-</p>
+![Clean Architecture](docs/SentimentalTechLog_ComponentDiagram.jpeg)
 
 ### 2. Sequence Diagram (Data Flow)
-<p align="center">
-  <img src="./docs/SentimentalTechLog_SequenceDiagram.jpeg" width="800" alt="Sequence Diagram">
-</p>
+![Sequence Diagram](docs/SentimentalTechLog_SequenceDiagram.jpeg)
 
 ### 3. State Machine (Log Lifecycle)
-<p align="center">
-  <img src="./docs/SentimentalTechLog_StateMachineDiagram.jpeg" width="800" alt="State Machine">
-</p>
+![State Machine](docs/SentimentalTechLog_StateMachineDiagram.jpeg)
 
 ## 🛠 Tech Stack
 - **Backend:** .NET 8/9, ASP.NET Core Web API
