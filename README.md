@@ -6,17 +6,20 @@
 ## 🏗 System Architecture
 This project implements **Clean Architecture** to ensure high maintainability and testability.
 
-### 1. Component Diagram (Onion Architecture)
-<img width="1705" height="2057" alt="image" src="https://github.com/user-attachments/assets/782b2b0e-46cf-48e1-ab88-df4387f0d26a" />
+### 1. Component Diagram
+<p align="center">
+  <img src="./docs/SentimentalTechLog_ComponentDiagram.png" width="800" alt="Clean Architecture">
+</p>
 
+### 2. Sequence Diagram (Data Flow)
+<p align="center">
+  <img src="./docs/SentimentalTechLog_SequenceDiagram.png" width="800" alt="Sequence Diagram">
+</p>
 
-### 2. State Machine (Log Lifecycle)
-<img width="1932" height="781" alt="SentimentalTechLog_StateMachineDiagram" src="https://github.com/user-attachments/assets/85260266-fc32-456e-94f3-a2d216980089" />
-
-
-### 3. Sequence Diagram (Data Flow)
-<img width="1217" height="954" alt="SentimentalTechLog_SequenceDiagram" src="https://github.com/user-attachments/assets/fdcc7f1e-c4f5-4722-a38e-9f3dae523e32" />
-
+### 3. State Machine (Log Lifecycle)
+<p align="center">
+  <img src="./docs/SentimentalTechLog_StateMachineDiagram.png" width="800" alt="State Machine">
+</p>
 
 ## 🛠 Tech Stack
 - **Backend:** .NET 8/9, ASP.NET Core Web API
