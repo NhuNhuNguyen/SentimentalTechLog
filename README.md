@@ -8,17 +8,17 @@ This project implements **Clean Architecture** to ensure high maintainability an
 
 ### 1. Component Diagram
 <p align="center">
-  <img src="./docs/SentimentalTechLog_ComponentDiagram.png" width="800" alt="Clean Architecture">
+  <img src="./docs/SentimentalTechLog_ComponentDiagram.jpeg" width="800" alt="Clean Architecture">
 </p>
 
 ### 2. Sequence Diagram (Data Flow)
 <p align="center">
-  <img src="./docs/SentimentalTechLog_SequenceDiagram.png" width="800" alt="Sequence Diagram">
+  <img src="./docs/SentimentalTechLog_SequenceDiagram.jpeg" width="800" alt="Sequence Diagram">
 </p>
 
 ### 3. State Machine (Log Lifecycle)
 <p align="center">
-  <img src="./docs/SentimentalTechLog_StateMachineDiagram.png" width="800" alt="State Machine">
+  <img src="./docs/SentimentalTechLog_StateMachineDiagram.jpeg" width="800" alt="State Machine">
 </p>
 
 ## 🛠 Tech Stack
